@@ -1,0 +1,170 @@
+body hr {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+#sendButton {
+    cursor: pointer;
+    color: #ffffff;
+    background: #22b2ee;
+    border-radius: 60px;
+    letter-spacing: 0em;
+    line-height: 1;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    border-radius: 60px;
+    width: auto;
+    padding: 16px 35px;
+    margin-left: 245px;
+    font-size: 15px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-weight: 500;
+}
+
+.woocommerce-checkout #payment ul.payment_methods li input {
+    margin-right: 0px !important;
+}
+
+body .woocommerce-checkout-payment label {
+    padding-right: 10px;
+}
+
+#gaspricefront {
+    margin-left: 70px;
+}
+
+#gfront {
+    margin-left: 60px;
+}
+
+.col-md-5.ethvalue {
+    width: 30%;
+    float: left;
+}
+
+.woocommerce-privacy-policy-text p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #9EA3A8;
+}
+
+.place-order {
+    background-color: #000;
+    border-width: 0px;
+}
+
+.col-md-5.ethvalue label {
+    color: #fff !important;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+body .woocommerce-checkout-payment label {
+    color: #FFFFFF !important;
+}
+
+.col-md-1.colon {
+    width: 2%;
+    float: left;
+    margin-left: 48px;
+}
+
+.col-md-1.colon label {
+    color: #fff !important;
+}
+
+hr.seprateline {
+    border: 0.5px solid #C4C4C4;
+    height: 0px !important;
+    width: 70% !important;
+}
+
+.col-md-6.labeldec label {
+    color: #fff;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.payment_box.payment_method_crypto {
+    background-color: #000 !important;
+}
+
+.wc_payment_methods {
+    background-color: #000 !important;
+}
+
+label.labelfine {
+    color: #fff !important;
+}
+
+.payment_box.payment_method_crypto p {
+    color: #fff;
+}
+
+li.wc_payment_method.payment_method_crypto {
+    padding-top: 15px;
+}
+
+.payment_box.payment_method_crypto::before {
+    display: none !important;
+}
+
+.frontform {
+    margin-left: 250px;
+}
+
+.btn2 {
+    padding: 8px 16px;
+    width: auto;
+    border-width: 0px;
+    background: #52B540;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25), 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+#add_payment_method #payment ul.payment_methods,
+.woocommerce-cart #payment ul.payment_methods,
+.woocommerce-checkout #payment ul.payment_methods {
+    border-bottom: 0px !important;
+}
+
+.form-row.place-order {
+    text-align: center;
+}
+
+button#place_order {
+    float: none !important;
+}
+
+@media only screen and (max-width: 767px) {
+    #gas_limit {
+        width: 140px;
+    }
+    #gas_price {
+        width: 140px;
+    }
+    hr.seprateline {
+        border: 0.5px solid #C4C4C4;
+        height: 0px;
+        width: 100% !important;
+    }
+}
+
+
